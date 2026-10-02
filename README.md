@@ -130,3 +130,12 @@ The project will focus on providing teachers with an all-in-one educational plat
 - Test the main user flows.
 - Refine the design based on feedback.
 - Prepare the final project documentation and presentation.
+---
+
+## 📤 Project Submission
+
+The complete project deliverables can be accessed through the link below:
+
+🔗 **[Project Submission Folder](https://drive.google.com/drive/folders/1fumWMGfi5_pSctA8Jc7NRVY0ZY16XIuG?usp=sharing)**
+
+> This folder will contain the project's final deliverables and related materials.
