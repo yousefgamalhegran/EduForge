@@ -19,11 +19,12 @@ The concept is similar to Shopify: instead of helping users create an online sto
 - **Yousef Gamal Abdelghani Hegran**
 
 ### Team Members
-1. **Afrah Abdelhamed Mohamed Eid**
-2. **Mariam Saied Abo Alkhair Elmongy**
-3. **Mohammed Abdellfattah Attia Abdellatif**
-4. **Salma Hisham Mohamed Taha**
-5. **Yousef Gamal Abdelghani Hegran**
+1. **Yousef Gamal Abdelghani Hegran**
+2. **Afrah Abdelhamed Mohamed Eid**
+3. **Mariam Saied Abo Alkhair Elmongy**
+4. **Mohammed Abdellfattah Attia Abdellatif**
+5. **Salma Hisham Mohamed Taha**
+
 
 ---
 
