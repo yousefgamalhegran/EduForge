@@ -1,11 +1,11 @@
-# 📎 EduForge
+# 📎 Tadris 
 ### _Build Your Own Learning Platform, Without the Code._
 
 ---
 
 ## 📌 Project Overview
 
-EduForge is a SaaS platform designed to enable teachers to easily create and manage their own online educational platforms without the need for programming or building a system from scratch.
+Tadris is a SaaS platform designed to enable teachers to easily create and manage their own online educational platforms without the need for programming or building a system from scratch.
 
 The platform provides teachers with a centralized dashboard to manage educational content, students, quizzes, exams, payments, communication, live classes, and analytics.
 
